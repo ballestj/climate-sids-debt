@@ -11,7 +11,7 @@ library(plm)
 # Load data
 # -----------------------------------------------------------------------------
 
-panel <- read_csv("clean_data/master_panel.csv")
+panel <- read_csv("data/master_panel.csv")
 panel_p <- pdata.frame(panel, index = c("iso3", "year"))
 
 # -----------------------------------------------------------------------------

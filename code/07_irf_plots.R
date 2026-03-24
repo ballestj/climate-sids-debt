@@ -20,7 +20,7 @@ dir.create("output/figures", recursive = TRUE, showWarnings = FALSE)
 # Load data
 # -----------------------------------------------------------------------------
 
-panel <- read_csv("clean_data/master_panel.csv")
+panel <- read_csv("data/master_panel.csv")
 
 # -----------------------------------------------------------------------------
 # Helper: run Johansen and produce IRF

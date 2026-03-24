@@ -12,7 +12,7 @@ library(vars)
 # Load data
 # -----------------------------------------------------------------------------
 
-panel <- read_csv("clean_data/master_panel.csv")
+panel <- read_csv("data/master_panel.csv")
 
 # -----------------------------------------------------------------------------
 # Prepare system variables — I(1) endogenous only

@@ -11,7 +11,7 @@ library(tsDyn)
 # Load data
 # -----------------------------------------------------------------------------
 
-panel <- read_csv("clean_data/master_panel.csv")
+panel <- read_csv("data/master_panel.csv")
 
 # -----------------------------------------------------------------------------
 # Helper: estimate VECM for a subsample
