@@ -1,0 +1,12 @@
+variable,series,wtbar,pvalue,order,note
+debt,Level,-1.0777,0.1406,I(1),
+vulnerability,Level,-5.3335,0,I(0),
+gdp_pc_ppp,Level,-1.95,0.0256,I(0),
+gdp_growth,Level,-13.9984,0,I(0),
+current_account,Level,-5.8173,0,I(0),
+inflation,Level,-6.2665,0,I(0),
+fiscal_balance,Level,-8.0699,0,I(0),
+remittances (ex. BHS),Level,-1.8924,0.0292,I(0),
+D.debt,First difference,-15.7123,0,I(0) ✓ confirms I(1) in levels,
+D.vulnerability,First difference,-22.4013,0,I(0) ✓ confirms I(1) in levels,
+D.gdp_pc_ppp,First difference,-12.9981,0,I(0) ✓ confirms I(1) in levels,

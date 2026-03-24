@@ -1,0 +1,4 @@
+hypothesis,trace_stat,crit_10pct,crit_5pct,crit_1pct,reject_5pct,reject_1pct
+r <= 2 |,19.772,10.49,12.25,16.26,TRUE,TRUE
+r <= 1 |,41.18,22.76,25.32,30.45,TRUE,TRUE
+r = 0  |,89.226,39.06,42.44,48.45,TRUE,TRUE
