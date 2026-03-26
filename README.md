@@ -4,7 +4,6 @@
 **Jorge Ballestero**  
 Columbia University — ECON GU4918 Senior Seminar in Econometrics  
 Spring 2026  
-Research Affiliate: Jeffrey Sachs, SDSN / Columbia Earth Institute
 
 ---
 
