@@ -7,6 +7,10 @@ Spring 2026
 
 ---
 
+The paper can be found [here!](https://drive.google.com/file/d/1PUI927TIz4vc_zHfI43Eummixy3i8fZf/view?usp=share_link)
+
+---
+
 ## Overview
 
 This repository contains the replication code for the empirical analysis in
